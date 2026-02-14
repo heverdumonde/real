@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="736" height="615" viewBox="0 0 736 615" role="img" aria-label="표고모 로고">
+  <rect width="736" height="615" fill="#ebebeb"/>
+  <g fill="none" stroke="#ff9500" stroke-width="34" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M113 131h137v137H113z"/>
+    <path d="M318 131h120v120"/>
+    <path d="M512 131h120v120H512z"/>
+    <path d="M300 260h147"/>
+    <path d="M525 260h124"/>
+    <path d="M113 260h137"/>
+    <path d="M182 340c50 62 143 95 236 95s186-33 236-95"/>
+  </g>
+  <g fill="#67c700">
+    <path d="M367 215c0-34 24-58 55-60-4 37-16 58-55 61z"/>
+    <path d="M367 215c0-34-24-58-55-60 4 37 16 58 55 61z"/>
+  </g>
+  <rect x="360" y="215" width="14" height="32" fill="#35b800"/>
+  <g fill="#ff9500" font-family="Apple SD Gothic Neo, Malgun Gothic, sans-serif" font-size="82" font-weight="700">
+    <text x="108" y="528">표선고의 모든것</text>
+  </g>
+</svg>
